@@ -52,6 +52,7 @@ export const Newbutton = styled.button`
   width: 10vw;
   cursor: pointer;
   border-radius: 20px;
+  border: groove 1px #fff;
 
   
 
@@ -60,7 +61,6 @@ export const Newbutton = styled.button`
     css`
       width: 220px; 
       height: 50px;
-      border: none;
       outline: none;
       color: #fff;
       background: #111;
